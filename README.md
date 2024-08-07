@@ -1,4 +1,6 @@
 ## Some info about me 👨‍💻
+Hi there 👋🏻
+
 
 - I'm Bruno Yamashita, currently workin @ [Infracommerce](https://www.infracommerce.com.br/)
 
