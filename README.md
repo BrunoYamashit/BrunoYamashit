@@ -1,6 +1,6 @@
 ## Some info about me 👨‍💻
 
-- I'm Bruno Yamashita, currently workin @ [Infracommerce](https://www.infracommerce.com.br/)]
+- I'm Bruno Yamashita, currently workin @ [Infracommerce](https://www.infracommerce.com.br/)
 
 - My Favorites tools are Typescript and Angular 2
 - I’m currently learning javascript streams
